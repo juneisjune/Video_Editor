@@ -75,8 +75,10 @@
     border: none;
     border-radius: 50%;
     cursor: pointer;
-    height: 18px;
-    width: 18px;
+    height: 30px;
+    /* 슬라이더 버튼의 높이 */
+    width: 30px;
+    /* 슬라이더 버튼의 너비 */
     margin-top: 4px;
     pointer-events: all;
     position: relative;
@@ -88,8 +90,10 @@
     border: none;
     border-radius: 50%;
     cursor: pointer;
-    height: 18px;
-    width: 18px;
+    height: 30px;
+    /* 슬라이더 버튼의 높이 */
+    width: 30px;
+    /* 슬라이더 버튼의 너비 */
     margin-top: 4px;
     pointer-events: all;
     position: relative;
